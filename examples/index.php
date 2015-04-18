@@ -5,8 +5,14 @@ if (!isWebRequest()) {
     php -S localhost:8080\n";
   exit();
 }
-echo pageHeader("PHP Library Examples"); ?>
+echo pageHeader("Google OAuth PHP Library Examples"); ?>
 <ul>
+  <li><a href="myDemo.php">Scott Demo</a></li>
+  <br />
+  <img src="myDemo1.jpg" /><br />
+  <img src="myDemo2.jpg" /><br />
+  <img src="myDemo3.jpg" /><br />
+  <br />
   <li><a href="simple-query.php">A query using simple API access</a></li>
   <li><a href="user-example.php">A query for user data, using OAuth 2.0 authentication.</a></li>
   <li><a href="batch.php">An example of combining multiple calls into a batch request</a></li>
@@ -16,4 +22,7 @@ echo pageHeader("PHP Library Examples"); ?>
   <li><a href="idtoken.php">An example of verifying and retrieving the id token.</a></li>
   <li><a href="multi-api.php">An example of using multiple APIs.</a></li>
 </ul>
+
+
 <?php echo pageFooter();
+

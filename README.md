@@ -11,3 +11,7 @@
 ## DemoProject Files
 - examples\myDemo.php
 - examples\myDemoLogined.php
+
+### OAuth Flow
+
+![Google OAuth2 Flow](https://raw.githubusercontent.com/scott1028/php_google_signIn_study/master/examples/GoogleOAuthFlow.jpg)

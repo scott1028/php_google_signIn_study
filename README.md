@@ -7,3 +7,8 @@
   
     1. cd examples
     2. php -S localhost:8080
+
+# DemoProject Files
+
+    - examples\myDemo.php
+    - examples\myDemoLogined.php

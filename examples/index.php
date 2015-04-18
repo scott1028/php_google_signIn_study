@@ -12,6 +12,7 @@ echo pageHeader("Google OAuth PHP Library Examples"); ?>
   <img src="myDemo1.jpg" /><br />
   <img src="myDemo2.jpg" /><br />
   <img src="myDemo3.jpg" /><br />
+  <img src="GoogleOAuthFlow.jpg" /><br />
   <br />
   <li><a href="simple-query.php">A query using simple API access</a></li>
   <li><a href="user-example.php">A query for user data, using OAuth 2.0 authentication.</a></li>
